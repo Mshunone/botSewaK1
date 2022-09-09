@@ -1644,15 +1644,14 @@ break
                 let buttonMessage = {
                     image: { url: anu.thumbnail },
                     caption: `
-⭔ *Title* : Tutor nya di yt🗿
-⭔ *No Wa*: 081361748868
-⭔ *Duration* : 24Hours
-⭔ *Viewers* : 14M views
-⭔ *Upload* At : 1 years ago
+⭔ *Judul* : Tutor nya di yt🗿
+⭔ *No Wa*: https://wa.me/6281361748868
+⭔ *Duration* : Abadi
+⭔ *Viewers* : 140M views
+⭔ *Upload* At : Jumat-09-sept-2022
 ⭔ *Author* : SaxiaBot-MD
-⭔ *Channel* : ${anu.author.url}
 ⭔ *Description* : nganu!
-⭔ *Url* : ${anu.url}`,
+⭔ *Url* : https://wa.me/6281361748868}`,
                     footer: global.author,
                     buttons: buttons,
                     headerType: 4
@@ -2827,7 +2826,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "🤖Bot By Setraight•𝐌𝐃🤖",
 								"rows": [
 									{
-										"title": "▪️Tutor Pasang Bot",
+										"title": "▪️Sewa Bot",
 										"rowId": `${prefix}owner`
 									}
 								]
