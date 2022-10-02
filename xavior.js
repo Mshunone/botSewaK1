@@ -2938,7 +2938,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 
             
-            case 'okay': { m.reply('Hai. Me Setraight•𝐌𝐃 Botz')} break
+            case 'okay': { m.reply('Hai. Me kanzBotz')} break
             
              case 'menu': {
             anu = `── *Welcome* ──
@@ -2978,8 +2978,8 @@ break
  case 'allmenu': {
                 anu = `
 
-┌──⭓ *Setraight•𝐌𝐃*
-│⭔ 𝘖𝘸𝘯𝘦𝘳:Reza
+┌──⭓ *kanzbotz*
+│⭔ 𝘖𝘸𝘯𝘦𝘳:Ranz
 │⭔ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯: K1.0
 │⭔ 𝘙𝘶𝘯𝘝𝘪𝘢:𝘏𝘦𝘳𝘰𝘬𝘶
 └───────⭓
@@ -3308,12 +3308,12 @@ Setraight•𝐌𝐃
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot KanzBotz'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3380,7 +3380,7 @@ Setraight•𝐌𝐃
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3435,7 +3435,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3496,7 +3496,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3552,7 +3552,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3616,7 +3616,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3694,7 +3694,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3753,7 +3753,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3809,7 +3809,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3870,7 +3870,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3947,7 +3947,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4012,7 +4012,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4069,7 +4069,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4124,7 +4124,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4174,7 +4174,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4225,7 +4225,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4283,7 +4283,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4344,7 +4344,7 @@ case 'webzone': {
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 813-6174-8868'
+                                    phoneNumber: '+6283292405363'
                                 }
                             }, {
                                 quickReplyButton: {
