@@ -545,11 +545,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 │⭔ Jasa Jadi Bot Tinggal scan
 │⭔ HUB OWNER
 └───────⭓
-┌──⭓ *Jangan lupa folw ya*
+┌──⭓ *Donasi*
 
-│⭔ IG :-
-│⭔ WA : -
-│⭔
+│⭔ Gopay : 082110711736
+│⭔ Ovo   : 085641142178
+│⭔ Dana  : 082110711836
 └───────⭓` }, { quoted: m })
             }
             case 'subscribe':{
@@ -1244,12 +1244,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://youtube.com'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '6283192405363'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1283,7 +1283,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2823,7 +2823,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     footerText: "Note:JANGAN SPAM!!",
                     listType: "SINGLE_SELECT",
                     sections: [{
-								"title": "🤖Bot By Setraight•𝐌𝐃🤖",
+								"title": "🤖Bot By Kasan🤖",
 								"rows": [
 									{
 										"title": "▪️Sewa Bot",
@@ -2832,78 +2832,78 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "✰➪MENU BOT✰➪",
+								"title": "⤥ MENU BOT ⤦",
 								"rows": [
 									{
-										"title": "✰➪All Menu",
+										"title": "❏ All Menu",
 										"rowId": `${prefix}allmenu`
 									},
 									{
-										"title": "✰➪Grup Menu",
+										"title": "❏ Grup Menu",
 										"rowId": `${prefix}groupmenu`
 									},
 									{
-										"title": "✰➪Webzone Menu",
+										"title": "❏ Webzone Menu",
 										"rowId": `${prefix}webzone`
 									},
 									{
-										"title": "✰➪Download Menu",
+										"title": "❏ Download Menu",
 										"rowId": `${prefix}download`
 									},
 									{
-										"title": "✰➪Search Menu",
+										"title": "❏ Search Menu",
 										"rowId": `${prefix}search`
 									},
 									{
-										"title": "✰➪Random Menu",
+										"title": "❏ Random Menu",
 										"rowId": `${prefix}random`
 									},
 									{
-										"title": "✰➪TextPro Menu",
+										"title": "❏ TextPro Menu",
 										"rowId": `${prefix}textpro`
 									},
 									{
-										"title": "✰➪PhotoOxy Menu",
+										"title": "❏ PhotoOxy Menu",
 										"rowId": `${prefix}photoxy`
 									},
 									{
-										"title": "✰➪Ephoto Menu",
+										"title": "❏ Ephoto Menu",
 										"rowId": `${prefix}ephoto`
 									},
 									{
-										"title": "✰➪Menu Perdukunan",
+										"title": "❏ Menu Perdukunan",
 										"rowId": `${prefix}dukun`
 									},
 									{
-										"title": "✰➪Fun Menu",
+										"title": "❏ Fun Menu",
 										"rowId": `${prefix}fun`
 									},
 									{
-										"title": "✰➪Convert Menu",
+										"title": "❏ Convert Menu",
 										"rowId": `${prefix}convert`
 									},
 									{
-										"title": "✰➪Islamic Menu",
+										"title": "❏ Islamic Menu",
 										"rowId": `${prefix}islam`
 									},
 									{
-										"title": "✰➪Main Menu",
+										"title": "❏ Main Menu",
 										"rowId": `${prefix}main`
 									},
 									{
-										"title": "✰➪Database Menu",
+										"title": "❏ Database Menu",
 										"rowId": `${prefix}database`
 									},
 									{
-										"title": "✰➪Hengker Menu",
+										"title": "❏ Hengker Menu",
 										"rowId": `${prefix}heker`
 									},
 									{
-										"title": "✰➪VN Menu",
+										"title": "❏ VN Menu",
 										"rowId": `${prefix}vn`
 									},
 									{
-										"title": "✰➪Owner Menu",
+										"title": "❏ Owner Menu",
 										"rowId": `${prefix}menuowner`
 									},
 									
@@ -2925,7 +2925,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								"title": "Owner 👨‍💻",
 								"rows": [
 									{
-										"title": "Setraight•𝐌𝐃",
+										"title": "Kasan OWN",
 										"rowId": `${prefix}owner`
 									
 									}]
@@ -2938,7 +2938,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 
             
-            case 'okay': { m.reply('Hai. Me kanzBotz')} break
+            case 'okay': { m.reply('Hai. Me kaznBotz')} break
             
              case 'menu': {
             anu = `── *Welcome* ──
@@ -2952,7 +2952,7 @@ Nih Musik Buat Menghibur
             let btn = [{
                                 
                                 quickReplyButton: {
-                                    displayText: '✰➪Daftar Fitur',
+                                    displayText: '☰ Daftar Fitur',
                                     id: 'command'
                             }    }, {quickReplyButton: {
                                     displayText: 'Thanks👌',
@@ -2975,11 +2975,11 @@ Nih Musik Buat Menghibur
                         }
 break       
      
- case 'allmenu': {
+ case '☰ allmenu': {
                 anu = `
 
-┌──⭓ *kanzbotz*
-│⭔ 𝘖𝘸𝘯𝘦𝘳:Ranz
+┌──⭓ *kaznbotz*
+│⭔ 𝘖𝘸𝘯𝘦𝘳:Kasan
 │⭔ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯: K1.0
 │⭔ 𝘙𝘶𝘯𝘝𝘪𝘢:𝘏𝘦𝘳𝘰𝘬𝘶
 └───────⭓
@@ -3375,7 +3375,7 @@ Setraight•𝐌𝐃
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3430,7 +3430,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3491,7 +3491,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3547,7 +3547,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3611,7 +3611,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3689,7 +3689,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3748,7 +3748,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3804,7 +3804,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3865,7 +3865,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -3942,7 +3942,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4007,7 +4007,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4064,7 +4064,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4119,7 +4119,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4169,7 +4169,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4220,7 +4220,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4278,7 +4278,7 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
@@ -4339,7 +4339,7 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot Setraight'
+                                    url: 'https://wa.me6283805685278?text=Permisi Banh mau minta SC bot'
                                 }
                             }, {
                                 callButton: {
